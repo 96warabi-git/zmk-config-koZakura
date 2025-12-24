@@ -1,4 +1,4 @@
-if SHIELD_KOZAKURA48_L //RからLに変更
+if SHIELD_KOZAKURA48_L
 
 config ZMK_KEYBOARD_NAME
     default "koZakura48"
