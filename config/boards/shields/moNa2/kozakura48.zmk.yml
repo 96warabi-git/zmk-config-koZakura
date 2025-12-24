@@ -1,0 +1,8 @@
+file_format: "1"
+id: koZakura48
+name: koZakura48
+type: shield
+url: https://github.com/96warabi-git/zmk-config-koZakura48
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
