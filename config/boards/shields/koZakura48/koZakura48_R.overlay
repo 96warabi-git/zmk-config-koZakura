@@ -44,7 +44,7 @@
 
 &left_encoder {
     status = "okay";
-}
+}; //gptに聞いた
 
 // Overrides for the input-split child node
 &trackball_peripheral_split {
