@@ -88,7 +88,7 @@
             //<&zip_scroll_transform INPUT_TRANSFORM_Y_INVERT>;   //invert vertical scrolling so that the view moves in the same direction as the top of the trackball.
     };
 
-    sensors: sensors {な
+    sensors: sensors {
         compatible = "zmk,keymap-sensors";
         sensors = <&left_encoder &right_encoder>
         triggers-per-rotation = <10>;
