@@ -1,5 +1,9 @@
 #include "koZakura48.dtsi"
 
+&default_transform {
+    col-offset = <7>;
+};
+
 //追加文
 &pinctrl {
     spi0_default: spi0_default {
