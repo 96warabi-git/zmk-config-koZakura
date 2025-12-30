@@ -160,3 +160,4 @@ chosen {
         triggers-per-rotation = <10>;
     };
 };
+};
