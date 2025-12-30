@@ -1,10 +1,6 @@
 #include "koZakura48.dtsi"
 #include <input/processors.dtsi>
 
-&default_transform {
-    col-offset = <7>;
-};
-
 //追加文
 &pinctrl {
     spi0_default: spi0_default {    //通常時(SPI通信中)のピン構成
