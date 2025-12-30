@@ -4,10 +4,7 @@
 #include <physical_layouts.dtsi> //動作確認だめなら消す
 
 / {
-//    chosen {
-//        zmk,kscan = &kscan0;
-//        zmk,matrix_transform = &default_transform;
-chosen {
+    chosen {
         zmk,physical-layout = &physical_layout0;
     };
 
